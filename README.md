@@ -1,12 +1,10 @@
-
 - Thème Vencord Anti Spiral
 
-oooooo     oooo ooooo oooooooooo.     .oooooo.  ooooooooo.   
- `888.     .8'  `888' `888'   `Y8b   d'     `b  `888   `Y88. 
-  `888.   .8'    888   888      888 d' .d"bd  8  888   .d88' 
-   `888. .8'     888   888      888 8  8. 8  .d  888ooo88P'  
-    `888.8'      888   888      888 Y.  YoP"b'   888`88b.    
-     `888'       888   888     d88'  8.      .8  888  `88b.  
-      `8'       o888o o888bood8P'     YooooooP  o888o  o888o 
 
 
+V)    vv I)iiii D)dddd    A)222  R)rrrrr  
+V)    vv   I)   D)   dd  A)    2 R)    rr 
+V)    vv   I)   D)    dd A) 2222 R)  rrr  
+ V)  vv    I)   D)    dd A) 2  2 R) rr    
+  V)vv     I)   D)    dd A)  222 R)   rr  
+   V)    I)iiii D)ddddd   A)     R)    rr 
