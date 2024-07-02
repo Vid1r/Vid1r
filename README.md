@@ -1,10 +1,4 @@
 - Thème Vencord Anti Spiral
 
-
-
-V)    vv I)iiii D)dddd    A)222  R)rrrrr  
-V)    vv   I)   D)   dd  A)    2 R)    rr 
-V)    vv   I)   D)    dd A) 2222 R)  rrr  
- V)  vv    I)   D)    dd A) 2  2 R) rr    
-  V)vv     I)   D)    dd A)  222 R)   rr  
-   V)    I)iiii D)ddddd   A)     R)    rr 
+  
+Pour voir si tu est chaud, décrypte ceci : 4|4-74-88-2-738774-2-3326|337-|23243|111-28-7277|243-377|293-33-33|26337-238|83-7472|73-3|111-3|111-53111|27|273-33-7243|623-3|11|131|11-311131|11311|131113111-3|111-31|113|1113111|311131|1131|11
